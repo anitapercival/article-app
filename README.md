@@ -2,6 +2,10 @@
 
 This project is a full-stack web application designed to display and manage a list of editorial articles. It demonstrates authentication, dynamic filtering, protected content, and a clean, responsive frontend. The application leverages technologies like **Node.js, React, TypeScript, and SQLite**, while showcasing core skills in **authentication, filtering, pagination, and secure data access**.
 
+<img width="500" height="900" alt="Screenshot 2025-07-23 at 20 40 57" src="https://github.com/user-attachments/assets/84983939-ac64-4299-bca7-ae54a6b15600" />
+
+<img width="500" height="900" alt="Screenshot 2025-07-23 at 20 41 28" src="https://github.com/user-attachments/assets/f40b582f-345d-4b04-af6b-d4290c53a121" />
+
 ---
 
 ## Project Architecture
