@@ -153,8 +153,6 @@ GROUP BY a.slug
       article.message = 'Login to read the full article.';
     }
 
-    console.log('Decoded user:', user);
-
     res.json(article);
   });
 });
